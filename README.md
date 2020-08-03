@@ -1,1 +1,1 @@
-# optimal-control-miscellneous
+# Control miscellneous
